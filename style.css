@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    flex-direction: column;
+    column-count: 2;
+    justify-content: space-between;
+    font: 14px Nunito Sans, sans-serif;
+    background-color: #98ac99;
+    line-height: 1.5
+  }
+.menu {
+    text-decoration: none;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    flex-direction: column;
+    column-count: 2;
+  }
+h1 {
+    font: bold "Nunito Sans", sans-serif;
+    color: #011308;
+}
+h2 {
+    font: bold "Nunito Sans", sans-serif;
+    color: #011308;
+}
+footer {
+    margin: 0px 0px 0px 10px;
+}
