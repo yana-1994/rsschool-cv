@@ -1,4 +1,5 @@
 # Yana Sharafutdinova
+[photo](https://i.ibb.co/yR397qL/MG-4958.jpg)
 ## Contacts
 * Location: Ufa, Russia
 * Email: neparis@yandex.ru
